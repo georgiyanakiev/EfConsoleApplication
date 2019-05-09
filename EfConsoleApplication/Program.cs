@@ -67,7 +67,7 @@ namespace EfConsoleApplication
                     PersonId = 1111,
                     FirstName = "Britney",
                     LastName = "Spears",
-                    City = "Chikago",
+                    City = "New York",
                     BirthDate = DateTime.Now
                 };
 
